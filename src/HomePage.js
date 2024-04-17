@@ -4,7 +4,8 @@ function HomePage(props) {
     return (
         <div>
             <p>code cua abcdefgh</p>
-            <p>COde cua toi moi code</p>
+            <p>test code</p>
+            <p>COde cua toi moi code123123123123</p>
             <h1>This is home page</h1>
         </div>
     );
